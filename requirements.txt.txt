@@ -1,0 +1,10 @@
+numpy
+torch
+scikit-learn
+sentence-transformers
+pypdf
+nltk
+
+langchain
+langchain-community
+langgraph
